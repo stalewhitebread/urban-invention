@@ -12,7 +12,10 @@ h3{
   font-family: 'Stalinist One', cursive;
 
 }
+.navbar-brand{
+  font-family: 'Stalinist One', cursive;
 
+}
 #outputDiv{
   display:none;
 }
