@@ -4,17 +4,20 @@
 
 body{
 
-  background-color: blueviolet;
+  background-image: url('https://images4.alphacoders.com/771/771198.jpg');
   
 }
-
+h1{
+  font-family: 'Stalinist One', cursive;
+  color:white;
+}
 h3{
   font-family: 'Stalinist One', cursive;
-
+  color:white;
 }
 .navbar-brand{
   font-family: 'Stalinist One', cursive;
-
+  color:white;
 }
 #outputDiv{
   display:none;
